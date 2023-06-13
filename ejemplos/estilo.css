@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Tsukimi+Rounded&display=swap');
+body{
+    background: rgb(47,102,144);
+    background: linear-gradient(90deg, rgba(47,102,144,1) 0%, rgba(18,154,198,1) 49%, rgba(0,212,255,1) 100%); 
+}
+h3{
+    font-family: 'Libre Baskerville', serif;
+    font-size: larger;
+    font-weight: 600;
+    color: #16425b
+}
+p{
+    font-size: large;
+    font-family: 'Tsukimi Rounded', sans-serif;
+    color: #81c3d7;
+}
+.elemento1 {
+	position: relative;
+	z-index: 1;
+}
+
+.elemento2 {
+position: relative;
+z-index: 1;
+}
